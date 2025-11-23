@@ -1,0 +1,40 @@
+
+Generative Architect — AI • Cloud • Blockchain • Distributed Systems | Senior Manager, EY
+
+
+ABOUT
+
+I’m a Generative Architect with 30+ years designing and delivering complex distributed systems across AI, blockchain, and cloud. I work at the intersection of architecture, creativity, and rapid prototyping — turning ambiguity into clean, functioning systems.
+
+I build fast: more than 80 generative prototypes in 2025, and 100+ GitHub repos spanning AI workflows, distributed systems, blockchain tooling, and zero-to-one product experiments. This is the core of my practice: transforming conceptual insight into working software with unusual speed and clarity.
+
+My background runs across telecom systems in Sweden, enterprise cloud platforms, decentralized ledgers, zero-knowledge proofs, digital identity, carbon market infrastructure, and now agentic AI architectures. The through-line is always the same:
+seeing structure in noise and making systems that hold up at scale.
+
+I’m deeply fluent in AI-assisted development (Claude Code, Cursor, Windsurf, Copilot, Augment) and I design architectures that combine ledger systems, cloud-native services, workflow engines, smart contracts, event-driven patterns, and large-scale data flows.
+
+I operate best in high-ambiguity, high-complexity environments where rapid understanding, precise architecture, and clean execution matter.
+
+Core Capabilities:
+Generative prototyping · Distributed systems · AI architectures · Blockchain & smart contracts · Cloud-native design (Azure/AWS) · FinTech & carbon markets · Identity & cryptographic workflows · Event-driven systems · Executive advisory
+
+
+
+
+
+
+ASSORTED SKILLS
+--------------------
+
+Cloud: AWS (EC2, ECS, S3, EFS, Lambda, Route 53, EBS, RDS, SQS, CloudFormation, CloudWatch, troposphere, Neptune),
+Hadoop, Redis, Elastic Search, Azure, GCP
+Containers: Docker, Kubernetes, gke
+Languages: Java, Scala, Python, Rust, Go, Erlang, JavaScript
+Databases: Oracle, DB2, MySQL, Versant OODBMS, MongoDB, CouchDB, Postgres/Tinkerpop, Tinkerpop
+Blockchains: Ethereum, BitCoin, MultiChain, HyperLedger, devv.io, DA/DAML, RChain
+Messaging - Kafka, RabbitMQ, AMQP, JMS, ZeroMQ, Apache Nifi
+Methods: Domain-Driven Design, UML, agile, scrum, git, JIRA, Confluence, Wardley maps, TOGAF Workflow: IBM BPM, Camunda
+DevOps: Ansible, AWS tools, Jenkins, Travis, HashiCorp Terraform, and vault
+Modeling: Wolfram
+ML/AI: sagemaker, jupyter
+Frontend: nodejs, javascript, react, npm, yarn.
