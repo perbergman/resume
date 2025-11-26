@@ -10,7 +10,7 @@
 		Senior Manager, Ernst & Young
       </span><br/>
       <span style="font-size:14px;">
-        Santa Fe, NM, USA • Phone +1 505 796 2219 • [nondualist@gmail.com](mailto:nondualist@gmail.com) • [linkedin.com/in/perbergman](https://linkedin.com/in/perbergman) • [github.com/perbergman](https://github.com/perbergman)
+        Santa Fe, NM, USA • [nondualist@gmail.com](mailto:nondualist@gmail.com) • [linkedin.com/in/perbergman](https://linkedin.com/in/perbergman) • [github.com/perbergman](https://github.com/perbergman)
       </span>
     </td>
   </tr>
