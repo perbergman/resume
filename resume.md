@@ -23,7 +23,7 @@ Generative Architect with 30+ years designing and delivering complex distributed
 
 Creator with **100+ GitHub repositories** built through a long-term generative engineering practice — spanning AI workflows, distributed systems, blockchain tooling, and rapid 0→1 prototypes.
 
-Operates best in high-ambiguity, high-complexity environments. Expert in AI-assisted development using Claude Code, Cursor, Windsurf, Copilot, and Augment. Designs architectures that integrate ledger systems, cloud-native services, smart contracts, event-driven patterns, and large-scale data flows.
+Operates best in high-ambiguity, high-complexity environments. Expert in AI-assisted development using Agentic tools. Designs architectures that integrate ledger systems, cloud-native services, smart contracts, event-driven patterns, and large-scale data flows.
 
 A rare combination of deep systems knowledge, creative intelligence, and rapid 0→1 execution.
 
@@ -85,7 +85,7 @@ Solution Architect for global public funds disbursement tracking platform.
 - **Canton Network Deployment:**  
   Deployed and configured **Canton validator nodes** (DevNet → TestNet → MainNet) for real transaction flows, including governance setup, networking, operational readiness, and secure environment configuration.  
 - Architected carbon offset systems, FinTech transaction flows, and enterprise identity solutions.  
-- Built rapid AI-powered prototypes using Claude Code, Cursor, Windsurf, Augment, and Copilot.  
+- Built rapid AI-powered prototypes using Agentic tools.  
 
 **Technologies:** Azure, Azure AI, Hyperledger Besu, Solidity, DAML, Canton, Ethereum tooling, Postgres, ACA, Azure Functions, Service Bus, DevOps.  
 
